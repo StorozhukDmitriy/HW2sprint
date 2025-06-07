@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HW2sprint/static/css/main.d42e0950.css",
-    "main.js": "/HW2sprint/static/js/main.ee856eef.js",
+    "main.css": "/HW2sprint/static/css/main.83ad852a.css",
+    "main.js": "/HW2sprint/static/js/main.9cae4ba7.js",
     "static/js/787.66cb4309.chunk.js": "/HW2sprint/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/HW2sprint/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/HW2sprint/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/checked.svg": "/HW2sprint/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/HW2sprint/index.html",
     "static/media/burger.svg": "/HW2sprint/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.d42e0950.css.map": "/HW2sprint/static/css/main.d42e0950.css.map",
-    "main.ee856eef.js.map": "/HW2sprint/static/js/main.ee856eef.js.map",
+    "static/media/Union.svg": "/HW2sprint/static/media/Union.cbff834834160818b58f38e46b4e3b13.svg",
+    "static/media/Polygon 5.svg": "/HW2sprint/static/media/Polygon 5.84608c11f30550bbfe9dc58dff6d4ddb.svg",
+    "static/media/Polygon 2.svg": "/HW2sprint/static/media/Polygon 2.3f53e1ada336d4a2b89dabfb878c65f9.svg",
+    "main.83ad852a.css.map": "/HW2sprint/static/css/main.83ad852a.css.map",
+    "main.9cae4ba7.js.map": "/HW2sprint/static/js/main.9cae4ba7.js.map",
     "787.66cb4309.chunk.js.map": "/HW2sprint/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d42e0950.css",
-    "static/js/main.ee856eef.js"
+    "static/css/main.83ad852a.css",
+    "static/js/main.9cae4ba7.js"
   ]
 }
